@@ -49,7 +49,7 @@ Submission link: TBD
 
 ## Organizers
 
-- **Co-Chairs**
+#### <a href="dummy"></a> **Co-Chairs**
 
   - [**Farzana Rahman**](https://w3.cs.jmu.edu/rahma2fx)<br>
     James Madison University<br>
@@ -63,11 +63,11 @@ Submission link: TBD
     James Madison University<br>
     Email: eltawass@jmu.edu
 
-- **Technical Program Committee**
+#### <a href="dummy"></a> **Technical Program Committee**
 
   - TBD
 
-- **Publicity Chair**
+#### <a href="dummy"></a> **Publicity Chair**
 
   - **Puya Ghazizadeh**<br>
     Seton Hall University<br>
