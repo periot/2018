@@ -73,11 +73,7 @@ pre code {
 }
 
 a > code {
-    color: #eb6864;
-}
-
-a > code:hover, a > code:focus {
-    color: #e22620;
+    color: #3399f3;
 }
 
 /*
