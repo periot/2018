@@ -55,7 +55,7 @@ Submission link: TBD
     James Madison University<br>
     Email: rahma2fx@jmu.edu
 
-  - [**Endadul Hoque**](https://endadul.github.io)<br>
+  - [**Endadul Hoque**](https://users.cs.fiu.edu/~ehoque/)<br>
     Florida International University<br>
     Email: ehoque@fiu.edu
 
@@ -65,7 +65,17 @@ Submission link: TBD
 
 #### <a href="dummy"></a> **Technical Program Committee**
 
-  - TBD
+  - Alan Marchiori, Bucknell University
+  - Razib Iqbal, Missouri University of Science and Technology
+  - Sharif Mohammad Shahnewaz Ferdous, University of Texas at San Antonio
+  - Samy El-Tawab, James Madison University
+  - Gang Zhou, George Mason University
+  - Shahriar Nirjon, University of North Carolina
+  - Baris Aksanil, San Diego State University
+  - Michael Sheng, Macquarie University
+  - Puya Ghazizadeh, Seton Hall University
+  - Wenbo Shi, Harvard University
+  - Mustafa El-Nainay, Virginia Tech
 
 #### <a href="dummy"></a> **Publicity Chair**
 
