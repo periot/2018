@@ -69,7 +69,8 @@ Submission link: TBD
   - Razib Iqbal, Missouri University of Science and Technology
   - Sharif Mohammad Shahnewaz Ferdous, University of Texas at San Antonio
   - Samy El-Tawab, James Madison University
-  - Gang Zhou, George Mason University
+  - Gang Zhou, College of William and Marry
+  - Ahmad Salman, George Mason University
   - Shahriar Nirjon, University of North Carolina
   - Baris Aksanil, San Diego State University
   - Michael Sheng, Macquarie University
