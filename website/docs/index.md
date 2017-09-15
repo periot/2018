@@ -37,7 +37,7 @@ Workshop date: To be announced soon (March 19 or March 23, 2018)
 
 Authors are invited to submit regular (full) papers for presentation at the workshop, describing original, previously unpublished work, which is not currently under review by another workshop, conference, or journal. Regular papers should present novel perspectives within the general scope of the workshop.
 
-PerIoT is **single-blind**. Papers may be no more than **6 pages** in length. Papers in excess of page limits shall not be considered for review or publication. All papers must be typeset in double-column IEEE format using 10pt fonts on US letter paper, with all fonts embedded. The IEEE LaTeX and Microsoft Word templates, as well as related information, can be found at the IEEE Computer Society website. Submissions must be made via [EDAS](#).
+PerIoT is **single-blind**. Papers may be no more than **6 pages** in length. Papers in excess of page limits shall not be considered for review or publication. All papers must be typeset in double-column IEEE format using 10pt fonts on US letter paper, with all fonts embedded. The IEEE LaTeX and Microsoft Word templates, as well as related information, can be found at the IEEE Computer Society website. Submissions must be made via [EDAS](http://edas.info/N23947).
 
 It is a requirement that all authors listed in the submitted paper are also listed in EDAS. The author section of EDAS will be locked after the workshop submission deadline to ensure that conflict-of-interest can be properly enforced during review. If the list of authors differs between the paper and EDAS, the paper may not be reviewed. The authors of accepted papers must guarantee that their paper will be presented at the workshop. **At least one author of each accepted paper must be registered at full rate for that paper to appear in the proceedings and to be scheduled for presentation**.
 
@@ -45,7 +45,7 @@ It is a requirement that all authors listed in the submitted paper are also list
 
 **Workshop papers will be included and indexed in the IEEE digital libraries (Xplore).**
 
-Submission link: TBD
+Submission link: <http://edas.info/N23947>
 
 ## Organizers
 
