@@ -66,7 +66,7 @@ Submission link: <http://edas.info/N23947>
 #### <a href="dummy"></a> **Technical Program Committee**
 
   - Alan Marchiori, Bucknell University
-  - Razib Iqbal, Missouri University of Science and Technology
+  - Razib Iqbal, Missouri State University
   - Sharif Mohammad Shahnewaz Ferdous, University of Texas at San Antonio
   - Samy El-Tawab, James Madison University
   - Gang Zhou, College of William and Marry
