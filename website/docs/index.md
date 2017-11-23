@@ -24,7 +24,7 @@ This workshop (PerIoT) solicits high-quality papers presenting original research
 ## Important Dates
 
 Papers submission deadline: **<strike>November 11, 2017</strike>
-  November 22, 2017** (<font color="red">**FIRM**</font>)<br>
+  December 3, 2017** (<font color="red">**HARD deadline**</font>)<br>
 Author notification due: **December 23, 2017**<br>
 Camera ready deadline: **January 10, 2018 (FIRM)**<br>
 Author registration deadline: **January 10, 2018 (FIRM)**<br>
