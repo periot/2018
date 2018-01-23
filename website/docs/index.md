@@ -2,7 +2,10 @@
 
 ##<a href=dummy></a> (co-located with [IEEE PerCom 2018](http://www.percom.org/))
 
-##<a href=dummy></a> March 19 - 23, 2018, Athens, Greece
+##<a href=dummy></a> March 19, 2018, Athens, Greece
+
+## Workshop Program is available here [[PDF](./periot2018_program.pdf)]
+
 
 The Internet of Things (IoT) is a novel paradigm that is rapidly gaining ground in the scenario of modern wireless telecommunications. The IoT enables large numbers of previously unconnected devices to communicate and exchange data and deal with services that span areas from healthcare to transportation and much more, with the potential for significant benefits to people and quality of life. The IoT would also enable a range of new capabilities and services far beyond today's offerings, which will radically change the life styles of future human generation. In recent years, Internet has become increasingly pervasive. Besides allowing people to connect anytime and everywhere to achieve pervasiveness and allow mobility, the Internet is evolving into the communication medium for objects that are embedded in the real world. The coupling among mobile technology, such objects and a worldwide pervasive communication infrastructure constitutes the Mobile and Pervasive Internet of Things. The mobile and pervasive IoT enables a detailed characterization of the real physical applications, as well as a rich set of pervasive interactions with the physical world. As such, the mobile and pervasive IoT has the potential to revolutionize future pervasive applications and influence the real world entities in to achieve better quality of life for future generation of human.
 
@@ -28,7 +31,7 @@ Papers submission deadline: **<strike>November 11, 2017</strike>
 Author notification due: **December 23, 2017**<br>
 Camera ready deadline: **January 10, 2018 (FIRM)**<br>
 Author registration deadline: **January 10, 2018 (FIRM)**<br>
-Workshop date: To be announced soon (March 19 or March 23, 2018)
+Workshop date: **March 19, 2018**
 
 ## Call for Papers (CFP)
 
@@ -85,9 +88,6 @@ Submission link: <http://edas.info/N23947>
     Seton Hall University<br>
     Email: puya.ghazizadeh@shu.edu
 
-## Workshop Program
-
-TBA
 
 ## Hotel and Venue Information
 
